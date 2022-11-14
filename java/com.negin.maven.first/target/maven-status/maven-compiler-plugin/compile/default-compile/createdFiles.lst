@@ -1,0 +1,7 @@
+model\Product.class
+model\SalePerson.class
+com\negin\maven\first\App.class
+model\Buyer.class
+model\Owner.class
+model\Person.class
+model\Makler.class
